@@ -8,6 +8,12 @@ Reads heart rate values from a text file and calculates the average
 ### Example
 Input File:
 
+78
+80
+82
+79
+77
+81
 
 Output:
 Average Heart Rate: 79.50 BPM
